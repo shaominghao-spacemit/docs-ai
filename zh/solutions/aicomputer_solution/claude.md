@@ -9,7 +9,7 @@
  * @FilePath: \doc\docs-ai\zh\solutions\aicomputer_solution\claude.md
  * @Description:
 -->
-sidebar_position: 8
+sidebar_position: 9
 
 # Claude Code(云端算力)
 
