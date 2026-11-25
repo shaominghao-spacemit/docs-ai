@@ -6,7 +6,9 @@ Experts created here use the current model from the [model list](runtime-provide
 
 Requirements: Runtime must be connected. If **Runtime unavailable** or **Host capability unavailable** appears at the top of the page, first check the extension and service status as described in [Runtime Management and Monitoring](runtime.md).
 
-![Runtime expert list](../images/runtime-experts.png)
+![Expert cards with callouts identifying the name, description, and enabled capability count](../images/runtime-experts.png)
+
+Figure: The callouts identify the expert's name and description, then the count of enabled tools, skills, plugins, and MCP servers.
 
 ## Understand Expert Cards
 

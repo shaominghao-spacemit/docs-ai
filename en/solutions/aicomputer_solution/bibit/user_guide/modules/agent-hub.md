@@ -16,11 +16,11 @@ Open **Agent Hub** to access three tabs:
 
 ## Find and Install Capabilities
 
-1. Open **Capability Market** and select the target agent from the **Agent** control. Select **bibit** for use with BiBit. This selection does not change the expert selected in chat.
+1. Open **Capability Market**. If the **Agent** control is visible, use it to select the installation target. The control may be hidden when BiBit is the only target. Select **bibit** for use with BiBit. This selection does not change the expert selected in chat.
 
-   ![Capability Market showing the Agent selector, Refresh, and Create controls in the upper-right corner](../images/agent-hub-market.png)
+   ![Capability Market with BiBit as the only target, showing Refresh and Create in the upper-right corner](../images/agent-hub-market.png)
 
-   Expand the Agent control to switch targets. In addition to **bibit**, targets include Codex, Claude-Code, and Hermes-Agent:
+   When multiple installation targets are available, expand the **Agent** control to switch targets. The following example shows a multi-target setup:
 
    ![Expanded Agent target selector](../images/agent-hub-agent-menu.png)
 

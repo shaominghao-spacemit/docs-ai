@@ -16,11 +16,11 @@
 
 ## 查找并安装能力
 
-1. 打开 **能力市场**，在页面的 **Agent** 控件中选择安装目标。给 BiBit 使用时选择 **bibit**；这里的目标选择不会改变聊天中选定的专家。
+1. 打开 **能力市场**。若页面显示 **Agent** 控件，可用它选择安装目标；只有 BiBit 一个目标时，页面可能不显示该控件。给 BiBit 使用时选择 **bibit**；这里的目标选择不会改变聊天中选定的专家。
 
-![能力市场：右上角依次为 Agent 控件、刷新和创建](../images/agent-hub-market.png)
+![能力市场：BiBit 单目标界面，右上角为刷新和创建](../images/agent-hub-market.png)
 
-展开 Agent 控件后可以切换目标，除 **bibit** 外还有 Codex、Claude-Code 和 Hermes-Agent：
+如果环境提供多个安装目标，可展开 **Agent** 控件切换。下图为多目标环境示例：
 
 ![展开 Agent 控件选择安装目标](../images/agent-hub-agent-menu.png)
 

@@ -6,7 +6,9 @@
 
 使用条件：Runtime 已连接。页面顶部显示 **Runtime 不可用** 或 **宿主能力未提供** 时，先按[Runtime 管理与监控](runtime.md)中的说明检查扩展和服务状态。
 
-![Runtime 专家列表](../images/runtime-experts.png)
+![专家卡片标注：专家名称与简介、已启用能力数量](../images/runtime-experts.png)
+
+图：绿色标注分别指出专家名称与简介，以及已启用的工具、技能、插件和 MCP 数量。
 
 ## 认识专家卡片
 

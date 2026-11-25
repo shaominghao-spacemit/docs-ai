@@ -6,6 +6,9 @@ This version of BiBit Desktop supports keyboard input in Quick Chat. Recording, 
 
 Click the BiBit icon in the system tray or click the desktop floating icon once. To open the main window, double-click the floating icon or right-click the tray icon and choose **Open Main Window**.
 
+![BiBit Quick Chat window with the conversation selector at the top and keyboard input at the bottom](../images/quick-chat.png)
+
+
 ## Send a Message
 
 1. Check the conversation shown at the top of the window. Choose **New conversation** to start a fresh topic.
