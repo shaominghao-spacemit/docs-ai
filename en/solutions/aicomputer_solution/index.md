@@ -9,6 +9,7 @@ sidebar_position: 2
 **Bianbu Agentic** is an agent operating system based on SpacemiT K-series chips, providing a foundation for agents to run effectively, reliably, and securely.
 
 - [Bianbu Agentic](agentic.md)
+- [BiBit User Guide](bibit/index.md)
 
 ## AI NAS
 
