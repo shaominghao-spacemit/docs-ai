@@ -20,8 +20,7 @@ sidebar_position: 2
 
 **Bianbu Agentic** 是基于进迭时空K系列芯片的Agent OS，是能够让Agent跑的好，跑的稳，跑的安全的智能系统底座。
 
-- [Bianbu Agentic](agentic.md)
-- [BiBit 用户指南](bibit/index.md)
+- [Bianbu Agentic](agentic/index.md)
 
 ## AI NAS
 
